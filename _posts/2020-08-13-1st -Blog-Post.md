@@ -3,7 +3,7 @@ layout: post
 title: "What Being a Data Scientist is About"
 ---
 Data science is about creating a crystal ball capable of answering complex questions before we can even think to ask them.  Granted that's a stretch, but after reading the 
-provided articles that may not too far off.  With the right mix of coding, statistical analysis, data management and product knowledge skills, data scientists 
+provided articles that may not be too far off.  With the right mix of coding, statistical analysis, data management and product knowledge skills, data scientists 
 might be on their way to building this crystal ball - or at least a prototype of it.  The engineers can take it to scale.
 
 Taken individually, these skills are in decent supply. There are many strong software engineers, capable statisticians and product managers intimately familiar with their platforms. So what most defines a data scientist? 
