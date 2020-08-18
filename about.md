@@ -17,7 +17,7 @@ Very interested to see how AI / ML will impact the IT services industry.
 ### Code Fun
 Here's some sample code for an RMD file to plot iris data set sample lengths by widths for ea species to get started
 
-'''{r, codefun, echo=TRUE}
+```{r, codefun, echo=TRUE}
 ibrary(ggplot2)
 ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width)) + 
   geom_point() + 
