@@ -19,7 +19,7 @@ Very interested to see how AI / ML will impact the IT services industry.
 [tkidol@ncsu.edu](mailto:tkidol@ncsu.edu)
 
 ### Code Fun
-Here's some sample code to get started
+Here's some sample code for to plot iris data set sample lengths/widths by species to get started
 
 '''{r, codefun, echo=TRUE}
 ibrary(ggplot2)
