@@ -4,12 +4,27 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+'''{rsetup, include=FALSE}
+library(knitr)
+opts_chunk$set(warning=FALSE}
+'''
+Grad Student at NCSU.  Career technology sales exec.
 
-### More Information
+### Interest in Stats and Data Science
 
-A place to include any other types of information that you'd like to include about yourself.
+Very interested to see how AI / ML will impact the IT services industry.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tkidol@ncsu.edu](mailto:tkidol@ncsu.edu)
+
+### Code Fun
+Here's some sample code to get started
+
+'''{r, codefun, echo=TRUE}
+ibrary(ggplot2)
+ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width)) + 
+  geom_point() + 
+  facet_wrap(~ Species, ncol = 2, scales="free")
+```
+
