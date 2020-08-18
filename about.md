@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-'''{rsetup, include=FALSE}
-library(knitr)
-opts_chunk$set(warning=FALSE}
-'''
 Grad Student at NCSU.  Career technology sales exec.
 
 ### Interest in Stats and Data Science
@@ -19,7 +15,7 @@ Very interested to see how AI / ML will impact the IT services industry.
 [tkidol@ncsu.edu](mailto:tkidol@ncsu.edu)
 
 ### Code Fun
-Here's some sample code for to plot iris data set sample lengths/widths by species to get started
+Here's some sample code for an RMD file to plot iris data set sample lengths by widths for ea species to get started
 
 '''{r, codefun, echo=TRUE}
 ibrary(ggplot2)
