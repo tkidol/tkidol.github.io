@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Grad Student at NCSU.  Career technology sales exec.
+Grad Student at NCSU.  Career Technology Account Exec.
 
 ### Interest in Stats and Data Science
 
@@ -15,7 +15,7 @@ Very interested to see how AI / ML will impact the IT services industry.
 [tkidol@ncsu.edu](mailto:tkidol@ncsu.edu)
 
 ### Code Fun
-Here's some sample code for an RMD file to plot iris data set sample lengths by widths for ea species to get started
+Here's some sample code for an RMD file to plot iris data set sepal lengths by sepal widths for ea species to get started.
 
 ```{r, codefun, echo=TRUE}
 library(ggplot2)
