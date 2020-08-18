@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Grad Student at NCSU.  Career Technology Account Exec.
+Grad Student at NCSU.  Career Technology Account Executive.
 
 ### Interest in Stats and Data Science
 
