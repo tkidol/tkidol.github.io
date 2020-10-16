@@ -1,11 +1,10 @@
-Pulling the NHL APIs & analyzing the data proved helpful. There are a lot of takaways for me, primarily that practice makes perfect as I spent considerable time bug fixing & reading documentation. All of that will prove useful for the next project no doubt.
+---
+layout: post
+title: "Bike Rental Analysis"
+---
+[Here's the link to the Project 2 Repo](https://github.com/tkidol/ST558-Project-2).
 
-[Here's the link to the Project 1 Repo](https://github.com/tkidol/ST558-Project-1).
+This project proved the value of R & the related packages in a big way.  As before, dplyr simplified manipulation of the data while the caret package did the same for train/test data creation & regression/boosted tree predictions. Most of all, the project exercised my (developing) statistics and (also developing) coding skills in a meaningful way.  I could easily see a firm hiring a data scientist to execute this kind of analysis to improve their business operations, control costs and prepare for seasonal demand.     
 
-Looking back on lessons learned. I found the data import & manipulation to straight forward. There were a few issues with joining but those were relatively easily solved with concentration & document reading.
+My comfort level with RStudio has grown and it made the data management and summary analysis easier than the NHL project.  That was very helpful as I spent a considerable amount of time workig to understand the data to prepare for the predictive modeling.  This enabled me to choose relevant predictors quickly and devote time to tuning the models for best mix of lower error rates (lower rmse) for a reasonable computation time.  Despite that advantage, the biggest challenge was the time it takes for the modeling to execute.  The key takeaway for me is the importancy of getting the most out of each modeling run to minimize wait time to facilitate more complex analyses on even larger data sets in the future.
 
-My most significant issue was planning & structure. I dove in & that led to a lot of re-work on conceptual ideas that I thought would prove useful but did not. I deleted several code chunks & started concepts from scratch. So I think diagraming & framing up from the end document back into the program structure & components needed would have helped a great deal. Next time I will spend more time on the vision before diving into the coding.
-
-I found the R community to be very helpful & most of my questions were easily addressed in online saved chats. All in all I think R is a strong tool & glad to be learning the fundamentals. The projec significantly improved my grasp of how the analysis, visualizations & tools come together to produce easily consumed output.
-
-All in all it was a fun project as a bona fide "Caniac". It proved a great way to learn the material on a topic I enjoyed researching.
