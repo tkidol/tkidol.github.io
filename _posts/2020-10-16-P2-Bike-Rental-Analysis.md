@@ -8,5 +8,5 @@ This project proved the value of R & the related packages in a big way.  As befo
 
 My comfort level with RStudio has grown and it made the data management and summary analysis easier than the NHL project.  That was very helpful as I spent a considerable amount of time workig to understand the data to prepare for the predictive modeling.  This enabled me to choose relevant predictors quickly and devote time to tuning the models for best mix of outcomes (lower rmse) at a reasonable computational cost (time).  
 
-Despite that advantage, the biggest challenge was the time it takes for the modeling to execute.  The key takeaway for me is the importancy of getting the most out of each modeling run to minimize wait time to facilitate more complex analyses on even larger data sets in the future.
+Despite that advantage, the biggest challenge was the time it takes for the modeling to execute.  The key takeaway for me is the importance of getting the most out of each modeling run to minimize wait time to facilitate more complex analyses on even larger data sets in the future.
 
